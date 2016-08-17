@@ -1,0 +1,16 @@
+body{
+	text-size: 16px;       /*размер шрифта*/  
+	font-family: Roboto;   /*Название шрифта */
+ 	color: black;	       /*цвет шрифта*/
+	font-weight: normal;   /*Жирность шрифта*/
+	line-height:normal;     /*Высота строки*/
+}
+
+h1{
+	text-size: 36px;
+}
+
+h2{
+	text-size: 18px;
+}
+
