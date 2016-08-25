@@ -1,5 +1,5 @@
 body{
-	text-size: 16px;       /*נאחלונ רנטפעא*/  
+	font-size: 16px;       /*נאחלונ רנטפעא*/  
 	font-family: Roboto;   /*ֽאחגאםטו רנטפעא */
  	color: black;	       /*צגוע רנטפעא*/
 	font-weight: normal;   /*ֶטנםמסעü רנטפעא*/
@@ -7,10 +7,10 @@ body{
 }
 
 h1{
-	text-size: 36px;
+	font-size: 36px;
 }
 
 h2{
-	text-size: 18px;
+	font-size: 18px;
 }
 
